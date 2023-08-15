@@ -1,0 +1,15 @@
+package basics;
+
+public class window {
+	public static void main(String[] args) {
+		
+		boolean myBoolean = true;
+		char mychar = '#';
+		String myString = "ruchitha";
+		int myInt = 40;
+		double myDouble = 2300.456789;
+	}
+	
+	System.out.printf("%b",myBoolean);
+
+}
